@@ -1,1 +1,2 @@
 this text will be added at the end off file file1.txt
+This is the second line in file1.txt
